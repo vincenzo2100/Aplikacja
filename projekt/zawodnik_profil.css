@@ -1,0 +1,48 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-header {
+    width: 20%;
+}
+
+.right-header {
+    width: 80%;
+}
+
+.main-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+table {
+    width: 45%;
+    margin: 0 auto;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid gray;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
